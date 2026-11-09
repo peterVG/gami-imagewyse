@@ -1,0 +1,18 @@
+.gitignore
+  h_10c93bba641ef0 1
+CNAME
+  h_10c93bba641ef0 1
+index.html
+  h_10c93bba641ef0 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "387761377fd1ff725eaa7120754925ad5a435e7f",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
